@@ -1,0 +1,7 @@
+boto3
+PILLOW
+regex
+pdf2image
+numpy
+matplotlib
+scipy
